@@ -5,4 +5,5 @@ A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS
 Technologies:
 
 HTML5
+
 CSS3
